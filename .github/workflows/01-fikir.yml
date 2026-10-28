@@ -1,0 +1,36 @@
+name: 1 - Fikir uret
+
+on:
+  workflow_dispatch:
+    inputs:
+      adet:
+        description: Kac fikir uretilsin
+        required: false
+        default: "10"
+
+permissions:
+  contents: write
+
+jobs:
+  fikir:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests
+      - name: Kasif ajanini calistir
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          ADET: ${{ inputs.adet }}
+        run: python ajanlar/kasif.py
+      - name: Ciktiyi depoya kaydet
+        run: |
+          git config user.name "Gecelemece Ajan"
+          git config user.email "ajan@gecelemece.local"
+          git add -A
+          git diff --staged --quiet || git commit -m "fikirler ${{ github.run_id }}"
+          git push
