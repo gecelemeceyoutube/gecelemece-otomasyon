@@ -1,4 +1,3 @@
-ala
 """Ortak yardimcilar: model cagrisi, JSON ayirma, ozet yazma.
 
 Model adlari sik degisiyor. Bu yuzden her calismada once API'den
