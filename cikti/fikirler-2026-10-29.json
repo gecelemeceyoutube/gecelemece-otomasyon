@@ -1,74 +1,92 @@
 [
   {
-    "baslik": "Ramazan Topu: Osmanlı'da Gece Eğlencesi",
-    "anahtar_kelime": "Ramazan Topu",
-    "niyet": "merak",
-    "aci": "Ramazan ayında gençlerin gece sahada oynadığı top oyunu",
+    "baslik": "Eski İstanbul Hikayeleri: Gece Bekçileri ve Asaslar",
+    "anahtar_kelime": "eski istanbul hikayeleri",
+    "niyet": "bilgi",
+    "aci": "Osmanlı gecelerinde sokak güvenliğini sağlayan asasların fener ve sopa ritüelleri",
     "skor": 9,
-    "neden_simdi": "Ramazan gelenekleri yeniden ilgi çekiyor"
+    "neden_simdi": "Arama sinyallerinde 'eski istanbul hikayeleri' doğrudan yükselişte ve kanalın gece asayişi konseptiyle tam örtüşüyor.",
+    "cekirdek": "Osmanlı İstanbulu'nda gece sokak düzeni ve asayişi asasbaşı ve mahalle bekçilerinin fener kontrolüyle sağlanırdı."
   },
   {
-    "baslik": "Galata Kulesi: 19. Yüzyıl Gece Çay Saati Hikayesi",
-    "anahtar_kelime": "Galata Kulesi",
-    "niyet": "bilgi",
-    "aci": "Kulenin üst katında akşam çayının sosyal rolü",
-    "skor": 8,
-    "neden_simdi": "Kule turizmi artıyor"
-  },
-  {
-    "baslik": "Tünel: İlk Gece Açılış ve Metro Tarihi",
-    "anahtar_kelime": "Tünel",
-    "niyet": "bilgi",
-    "aci": "1875'te açılan Tünel'in gece açılış töreni ve ilk yolculukları",
-    "skor": 7,
-    "neden_simdi": "Modern metro tarihine artan ilgi"
-  },
-  {
-    "baslik": "Karaköy Gümüş Atölyeleri: Gece Çalışan Zanaatkarlar",
-    "anahtar_kelime": "Karaköy Gümüş",
-    "niyet": "tartisma",
-    "aci": "19. yüzyıl sonlarında gece çalışan gümüş işçileri ve üretim süreci",
-    "skor": 6,
-    "neden_simdi": "Yerel zanaat ve sürdürülebilir turizm trendi"
-  },
-  {
-    "baslik": "Süleymaniye Çarşısı: Gece Işıkları ve Tüccar Ritüeli",
-    "anahtar_kelime": "Süleymaniye Çarşısı",
-    "niyet": "bilgi",
-    "aci": "Osmanlı döneminde çarşıda gece ticaretinin dinamikleri",
-    "skor": 8,
-    "neden_simdi": "Gece pazarları günümüzde popüler"
-  },
-  {
-    "baslik": "Bebek Sahili: 18. Yüzyıl Gece Astronomi Gözlemleri",
-    "anahtar_kelime": "Bebek Sahili",
+    "baslik": "Osmanlı Tarihi: Tulumbacıların Gece Yangın Nöbeti",
+    "anahtar_kelime": "osmanlı tarihi belgesel",
     "niyet": "merak",
-    "aci": "Osmanlı bilim insanlarının sahilde yıldız gözlemleri ve kayıtları",
-    "skor": 7,
-    "neden_simdi": "Astronomi ve tarih birleşimi ilgi çekiyor"
-  },
-  {
-    "baslik": "Çukurcuma Gece Pazarı: 1920'ler Gizli Buluşması",
-    "anahtar_kelime": "Çukurcuma Gece Pazarı",
-    "niyet": "tartisma",
-    "aci": "Cumhuriyet öncesi gece pazarı ve kültürel etkileşimleri",
+    "aci": "Ahşap İstanbul'u yok eden gece yangınlarına karşı koşan tulumbacı ocaklarının bilinmeyen kuralları",
     "skor": 8,
-    "neden_simdi": "Eski fotoğraflar ve anılar yeniden gün yüzüne çıkıyor"
+    "neden_simdi": "'osmanlı tarihi belgesel' arama hacmi yüksek; sonbahar aylarında artan soba ve baca yangınları tarihi arka planla rezonans kuruyor.",
+    "cekirdek": "1720'de Gerçek Davud tarafından kurulan Derhteran-ı Tulumbacıyan ocağı, gece yangınlarında mahalle aralarındaki sarnıçları kullanarak şehri korumuştur."
   },
   {
-    "baslik": "Harem Kemençe: Gece Müzik Toplantıları ve Saray Atmosferi",
-    "anahtar_kelime": "Harem Kemençe",
+    "baslik": "Eski İstanbul: Galata Kulesi Fenercileri Nasıl Yaşardı?",
+    "anahtar_kelime": "eski istanbul",
     "niyet": "bilgi",
-    "aci": "Osmanlı sarayında akşam kemençe çalınması ve ritüelleri",
-    "skor": 6,
-    "neden_simdi": "Osmanlı müziği ve kültürü yeniden keşfediliyor"
+    "aci": "Geceleri Haliç ve Boğaz trafiğine kılavuzluk eden fenercilerin vardiya düzeni",
+    "skor": 7,
+    "neden_simdi": "'eski istanbul' sinyali ve kentin simge yapılarının gece rutinlerine yönelik arama ilgisi.",
+    "cekirdek": "Galata Kulesi, Osmanlı döneminde hem yangın gözetleme hem de denizcilere gece feneri olarak nöbetleşe vardiyalarla işletilmiştir."
   },
   {
-    "baslik": "İstanbul Çekirdeği: Gece Sokak Satıcıları ve Gelenek",
-    "anahtar_kelime": "İstanbul Çekirdeği",
+    "baslik": "Osmanlı Gelenekleri: Sadaka Taşlarının Gece Sırrı",
+    "anahtar_kelime": "osmanlı gelenekleri",
+    "niyet": "bilgi",
+    "aci": "Alan ile verenin birbirini görmediği, sadece karanlık çöktüğünde kullanılan mahalle taşları",
+    "skor": 9,
+    "neden_simdi": "'osmanlı gelenekleri' arama trendinde yer alıyor; mahremiyet ve gece teması kısa belgesel formatına tam oturuyor.",
+    "cekirdek": "Sadaka taşlarına paralar, yoksulun mahcubiyet yaşamaması adına özellikle yatsı namazından sonra gece karanlığında bırakılır ve alınırdı."
+  },
+  {
+    "baslik": "İstanbul Tarihi: Yerebatan Sarnıcı Gece Neden Kapatılırdı?",
+    "anahtar_kelime": "istanbul tarihi yerler",
     "niyet": "merak",
-    "aci": "Gece sokak satıcılarının çekirdek satışı ve tüketim ritüeli",
+    "aci": "Bizans'tan fethe kadar sarayın gece su güvenliğini sağlayan yeraltı denetimi",
+    "skor": 6,
+    "neden_simdi": "'istanbul tarihi yerler' arama sinyaliyle doğrudan bağlantılı; tarihi su yolları araştırmaları ilgi görüyor.",
+    "cekirdek": "Yerebatan Sarnıcı, sarayın su kaynağı olması sebebiyle zehirlenme ve suikast riskine karşı gün batımından sonra kilit altında tutulurdu."
+  },
+  {
+    "baslik": "Tarihi Hikayeler: 29 Ekim Gecesi Ankara Fener Alayı",
+    "anahtar_kelime": "gerçek tarihi hikayeler",
+    "niyet": "merak",
+    "aci": "Cumhuriyet'in ilan edildiği 29 Ekim 1923 gecesi meclis önünde yakılan ilk fenerler",
+    "skor": 10,
+    "neden_simdi": "Bugün 29 Ekim; Cumhuriyet Bayramı vesilesiyle resmi bayramın gece kutlama başlangıcı en sıcak güncel konu.",
+    "cekirdek": "29 Ekim 1923 gecesi saat 20.30'da Cumhuriyet ilan edildikten sonra Ankara halkı fenerlerle meclis binası önünde toplanmıştır."
+  },
+  {
+    "baslik": "Osmanlı Tarihi Hikayeleri: Şifahanelerde Musiki Seansları",
+    "anahtar_kelime": "osmanlı tarihi hikayeleri",
+    "niyet": "bilgi",
+    "aci": "Edirne Darüşşifası'nda gece hastaları yatıştırmak için çalınan rast ve nihavend makamları",
     "skor": 7,
-    "neden_simdi": "Sokak lezzetleri günümüzde popüler"
+    "neden_simdi": "'osmanlı tarihi hikayeleri' ve müzikli arama sorguları birlikte aranıyor; gece dinginliği konseptine uygun.",
+    "cekirdek": "Edirne II. Bayezid Külliyesi Darüşşifası'nda akıl hastaları belirli gün ve gecelerde haftada üç gün makamlı musikiyle tedavi edilirdi."
+  },
+  {
+    "baslik": "Eski İstanbul: Kandilli ve Boğaz Vapurlarının Sis Feneri",
+    "anahtar_kelime": "eski istanbul görüntüleri",
+    "niyet": "bilgi",
+    "aci": "Sonbahar sislerinde Boğaziçi'nde seyrüsefer yapan Şirket-i Hayriye vapurlarının işaretleşme yöntemleri",
+    "skor": 5,
+    "neden_simdi": "Ekim sonu ve sonbahar mevsiminde İstanbul Boğazı'nda başlayan yoğun gece sisleri dönemi.",
+    "cekirdek": "Şirket-i Hayriye vapurları, sonbahar ve kış aylarındaki yoğun Boğaz sisinde kıyı fenerleriyle özel düdük kodları üzerinden iletişim kurardı."
+  },
+  {
+    "baslik": "Osmanlı Tarihi: Haremde Gece Nöbet Tutan Darüssaade Ağası",
+    "anahtar_kelime": "osmanlı tarihi harem",
+    "niyet": "tartisma",
+    "aci": "Topkapı Sarayı'nda gün batımından sonra Harem kapılarını mühürleyen mekanizma ve anahtar protokolü",
+    "skor": 8,
+    "neden_simdi": "Arama listesinde 'osmanlı tarihi harem' doğrudan bulunuyor; mahrem alanın gece protokülüne dönük merak yüksek.",
+    "cekirdek": "Topkapı Sarayı Harem Dairesi'nin ana kapısı yatsı vaktinde kilitlenir ve anahtar doğrudan Darüssaade Ağası'nın uhdesine bırakılırdı."
+  },
+  {
+    "baslik": "İstanbul Tarihi: Çemberlitaş Hamamı Gece Nasıl Isınırdı?",
+    "anahtar_kelime": "istanbul tarihi",
+    "niyet": "bilgi",
+    "aci": "Külhanbeylerinin ocak başında sabahladığı külhan sistemi ve gece yakıt sevkiyatı",
+    "skor": 4,
+    "neden_simdi": "'istanbul tarihi' aramalarında kışa girişle birlikte hamam kültürü ve ısınma mimarisi arka planı sorgulanıyor.",
+    "cekirdek": "Mimar Sinan yapısı Çemberlitaş Hamamı'nın cehennemlik adı verilen külhanı, sabah namazı müşterilerine hazır olması için gece boyu odunla beslenirdi."
   }
 ]
