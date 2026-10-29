@@ -1,0 +1,35 @@
+name: 2 - Senaryo yaz
+
+on:
+  workflow_dispatch:
+    inputs:
+      konu:
+        description: Konu basligi
+        required: true
+
+permissions:
+  contents: write
+
+jobs:
+  senaryo:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.12"
+      - run: pip install requests
+      - name: Katip ajanini calistir
+        env:
+          GEMINI_API_KEY: ${{ secrets.GEMINI_API_KEY }}
+          GROQ_API_KEY: ${{ secrets.GROQ_API_KEY }}
+          KONU: ${{ inputs.konu }}
+        run: python ajanlar/katip.py
+      - name: Ciktiyi kaydet
+        run: |
+          git config user.name "Gecelemece Ajan"
+          git config user.email "ajan@gecelemece.local"
+          git add -A
+          git diff --staged --quiet || git commit -m "senaryo ${{ github.run_id }}"
+          git push
